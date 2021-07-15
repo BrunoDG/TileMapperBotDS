@@ -21,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/BrunoDG/TileMapperBotDS/issues"
   },
-  "homepage": "https://github.com/BrunoDG/TileMapperBotDS#readme"
+  "homepage": "https://github.com/BrunoDG/TileMapperBotDS#readme",
+  "dependencies": {
+    "@typeit/discord": "^4.0.10",
+    "discord.js": "^12.5.3",
+    "typescript": "^4.3.5"
+  }
 }
