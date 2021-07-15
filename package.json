@@ -1,0 +1,25 @@
+{
+  "name": "tilemapperbotds",
+  "version": "1.0.0",
+  "description": "Helper bot for Discord to create several player sheets for Role Playing Games",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrunoDG/TileMapperBotDS.git"
+  },
+  "keywords": [
+    "Discord",
+    "RPG",
+    "Helper",
+    "Bot"
+  ],
+  "author": "Bruno Dias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrunoDG/TileMapperBotDS/issues"
+  },
+  "homepage": "https://github.com/BrunoDG/TileMapperBotDS#readme"
+}
